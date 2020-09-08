@@ -1473,6 +1473,31 @@
 		C1E7035C24FFFA5C00DAB534 /* CollectionTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionTests.swift; sourceTree = "<group>"; };
 		C1E7035E25001EA500DAB534 /* HKObserverQueryMock.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HKObserverQueryMock.swift; sourceTree = "<group>"; };
 		C1E703612500390B00DAB534 /* HKAnchoredObjectQueryMock.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HKAnchoredObjectQueryMock.swift; sourceTree = "<group>"; };
+		C1E7036F25070D4100DAB534 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/Localizable.strings; sourceTree = "<group>"; };
+		C1E7037025070D4100DAB534 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/Localizable.strings"; sourceTree = "<group>"; };
+		C1E7037125070D4100DAB534 /* nb */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = nb; path = nb.lproj/Localizable.strings; sourceTree = "<group>"; };
+		C1E7037225070D4100DAB534 /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/Localizable.strings; sourceTree = "<group>"; };
+		C1E7037325070D4100DAB534 /* it */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = it; path = it.lproj/Localizable.strings; sourceTree = "<group>"; };
+		C1E7037425070D4100DAB534 /* NightscoutService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NightscoutService.swift; sourceTree = "<group>"; };
+		C1E7037525070D4100DAB534 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = Base; path = Base.lproj/Localizable.strings; sourceTree = "<group>"; };
+		C1E7037725070D4100DAB534 /* HKUnit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HKUnit.swift; sourceTree = "<group>"; };
+		C1E7037825070D4100DAB534 /* StoredGlucoseSample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoredGlucoseSample.swift; sourceTree = "<group>"; };
+		C1E7037925070D4100DAB534 /* TemporaryScheduleOverride.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TemporaryScheduleOverride.swift; sourceTree = "<group>"; };
+		C1E7037A25070D4100DAB534 /* StoredDosingDecision.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoredDosingDecision.swift; sourceTree = "<group>"; };
+		C1E7037B25070D4100DAB534 /* NightscoutUploader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NightscoutUploader.swift; sourceTree = "<group>"; };
+		C1E7037C25070D4100DAB534 /* DoseEntry.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DoseEntry.swift; sourceTree = "<group>"; };
+		C1E7037D25070D4100DAB534 /* SyncCarbObject.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SyncCarbObject.swift; sourceTree = "<group>"; };
+		C1E7037E25070D4100DAB534 /* Bundle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bundle.swift; sourceTree = "<group>"; };
+		C1E7037F25070D4100DAB534 /* DiagnosticLog+Subsystem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "DiagnosticLog+Subsystem.swift"; sourceTree = "<group>"; };
+		C1E7038025070D4100DAB534 /* TimeInterval.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimeInterval.swift; sourceTree = "<group>"; };
+		C1E7038125070D4100DAB534 /* StoredSettings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoredSettings.swift; sourceTree = "<group>"; };
+		C1E7038225070D4100DAB534 /* pl */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = pl; path = pl.lproj/Localizable.strings; sourceTree = "<group>"; };
+		C1E7038325070D4100DAB534 /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/Localizable.strings; sourceTree = "<group>"; };
+		C1E7038425070D4100DAB534 /* ObjectIdCache.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ObjectIdCache.swift; sourceTree = "<group>"; };
+		C1E7038525070D4100DAB534 /* fr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fr; path = fr.lproj/Localizable.strings; sourceTree = "<group>"; };
+		C1E7038625070D4100DAB534 /* nl */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = nl; path = nl.lproj/Localizable.strings; sourceTree = "<group>"; };
+		C1E7038725070D4100DAB534 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C1E7038825070D4100DAB534 /* NightscoutServiceKit.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = NightscoutServiceKit.h; sourceTree = "<group>"; };
 		C1F8403723DB84B700673141 /* DeviceLogEntry+CoreDataClass.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "DeviceLogEntry+CoreDataClass.swift"; sourceTree = "<group>"; };
 		C1F8403823DB84B700673141 /* DeviceLogEntry+CoreDataProperties.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "DeviceLogEntry+CoreDataProperties.swift"; sourceTree = "<group>"; };
 		E9077D2624ACD59F0066A88D /* InformationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InformationView.swift; sourceTree = "<group>"; };
@@ -2390,6 +2415,7 @@
 		89D2049021CC7C13001238CC /* MockKitUI */ = {
 			isa = PBXGroup;
 			children = (
+				C1E7036D25070D4100DAB534 /* NightscoutServiceKit */,
 				8992426321EC137900EA512B /* Extensions */,
 				89D204B621CC7E77001238CC /* View Controllers */,
 				439706E722D2E8EE00C81566 /* Views */,
@@ -2492,6 +2518,38 @@
 				C17F39CF23CE34B100FA1113 /* StoredDeviceLogEntry.swift */,
 			);
 			path = DeviceLog;
+			sourceTree = "<group>";
+		};
+		C1E7036D25070D4100DAB534 /* NightscoutServiceKit */ = {
+			isa = PBXGroup;
+			children = (
+				C1E7036E25070D4100DAB534 /* Localizable.strings */,
+				C1E7037425070D4100DAB534 /* NightscoutService.swift */,
+				C1E7037625070D4100DAB534 /* Extensions */,
+				C1E7038425070D4100DAB534 /* ObjectIdCache.swift */,
+				C1E7038725070D4100DAB534 /* Info.plist */,
+				C1E7038825070D4100DAB534 /* NightscoutServiceKit.h */,
+			);
+			name = NightscoutServiceKit;
+			path = ../../NightscoutService/NightscoutServiceKit;
+			sourceTree = "<group>";
+		};
+		C1E7037625070D4100DAB534 /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				C1E7037725070D4100DAB534 /* HKUnit.swift */,
+				C1E7037825070D4100DAB534 /* StoredGlucoseSample.swift */,
+				C1E7037925070D4100DAB534 /* TemporaryScheduleOverride.swift */,
+				C1E7037A25070D4100DAB534 /* StoredDosingDecision.swift */,
+				C1E7037B25070D4100DAB534 /* NightscoutUploader.swift */,
+				C1E7037C25070D4100DAB534 /* DoseEntry.swift */,
+				C1E7037D25070D4100DAB534 /* SyncCarbObject.swift */,
+				C1E7037E25070D4100DAB534 /* Bundle.swift */,
+				C1E7037F25070D4100DAB534 /* DiagnosticLog+Subsystem.swift */,
+				C1E7038025070D4100DAB534 /* TimeInterval.swift */,
+				C1E7038125070D4100DAB534 /* StoredSettings.swift */,
+			);
+			path = Extensions;
 			sourceTree = "<group>";
 		};
 		E9077D2824ACD5AA0066A88D /* Information Screens */ = {
@@ -3937,6 +3995,23 @@
 				1F5DAB7F2118F3FC00048054 /* nb */,
 				1FE58790211CFBB7004F24ED /* Base */,
 				1F50C329212B20D400C18FAB /* pl */,
+			);
+			name = Localizable.strings;
+			sourceTree = "<group>";
+		};
+		C1E7036E25070D4100DAB534 /* Localizable.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				C1E7036F25070D4100DAB534 /* de */,
+				C1E7037025070D4100DAB534 /* zh-Hans */,
+				C1E7037125070D4100DAB534 /* nb */,
+				C1E7037225070D4100DAB534 /* es */,
+				C1E7037325070D4100DAB534 /* it */,
+				C1E7037525070D4100DAB534 /* Base */,
+				C1E7038225070D4100DAB534 /* pl */,
+				C1E7038325070D4100DAB534 /* ru */,
+				C1E7038525070D4100DAB534 /* fr */,
+				C1E7038625070D4100DAB534 /* nl */,
 			);
 			name = Localizable.strings;
 			sourceTree = "<group>";

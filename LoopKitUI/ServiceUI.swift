@@ -17,7 +17,7 @@ public protocol ServiceUI: Service {
     /// Provides a view controller to create and configure a new service, if needed.
     ///
     /// - Returns: A view controller to create and configure a new service.
-    static func setupViewController() -> (UIViewController & ServiceSetupNotifying & CompletionNotifying)?
+    static func setupViewController(chartColors: ChartColorPalette, carbTintColor: Color, glucoseTintColor: Color, guidanceColors: GuidanceColors, insulinTintColor: Color) -> (UIViewController & ServiceSetupNotifying & CompletionNotifying)?
 
     /// Provides a view controller to configure an existing service.
     ///
